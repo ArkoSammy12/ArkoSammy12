@@ -1,6 +1,6 @@
 - Hobby Programmer
 - Main language is Java for use with Minecraft mods and other miscalleanous projects.
-- Currently learning C# and C++.
+- Currently learning Kotlin
 
 <!--
 **ArkoSammy12/ArkoSammy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
