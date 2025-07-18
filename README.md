@@ -4,7 +4,7 @@
 ![ArkoSammy12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkoSammy12&theme=blue-green&hide_border=true)
 ![ArkoSammy12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkoSammy12&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
-Hello, I'm just a hard-to-motivated latin american pixelated monkey who's into competitive typing. So:
+Hello, I'm just a hard-to-motivate latin american pixelated monkey who's into competitive typing. So:
 - I'm a JVM enthusiast and a fan of Object Oriented programming. My favorite languages are Java and Kotlin.
 - Taught myself how to program as a hobby.
 - Mainly develop Minecraft mods but I am also trying to branch out into other types of projects.
