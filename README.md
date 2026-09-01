@@ -6,8 +6,8 @@
 
 Hello, I'm just a hard-to-motivate latin american pixelated monkey who's into competitive typing. So:
 - I'm a JVM enthusiast and a fan of Object Oriented programming. My favorite languages are Java and Kotlin.
-- Taught myself how to program as a hobby.
-- Mainly develop Minecraft mods but I am also trying to branch out into other types of projects.
+- Self taught programmer hobbyist. Currently studying to become a professional software engineer.
+- Mainly working on emulator development, but have also worked in Minecraft mods, libraries, and small toy projects.
 - Native language is Spanish, but extremely fluent in English.
-- Somewhat familiar with Python and C. Would like to get into embedded programming in the future.
+- Somewhat familiar with Python and C. Would like to get into backend development in the future.
 - Interested in learning languages like C#, Scala and Clojure in the future.
